@@ -1,0 +1,14 @@
+/home/paulo/Programas/SistemaDeEstoque/bin/Debug/net7.0/Estoque
+/home/paulo/Programas/SistemaDeEstoque/bin/Debug/net7.0/Estoque.deps.json
+/home/paulo/Programas/SistemaDeEstoque/bin/Debug/net7.0/Estoque.runtimeconfig.json
+/home/paulo/Programas/SistemaDeEstoque/bin/Debug/net7.0/Estoque.dll
+/home/paulo/Programas/SistemaDeEstoque/bin/Debug/net7.0/Estoque.pdb
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/Estoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/Estoque.AssemblyInfoInputs.cache
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/Estoque.AssemblyInfo.cs
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/Estoque.csproj.CoreCompileInputs.cache
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/Estoque.dll
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/refint/Estoque.dll
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/Estoque.pdb
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/Estoque.genruntimeconfig.cache
+/home/paulo/Programas/SistemaDeEstoque/obj/Debug/net7.0/ref/Estoque.dll

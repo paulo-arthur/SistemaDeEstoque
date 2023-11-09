@@ -9,12 +9,24 @@
     "code": "0002",
     "name": "apple",
     "outcomePrice": 4.5,
-    "amount": 200
+    "amount": 180
   },
   {
     "code": "8809",
     "name": "pear",
     "outcomePrice": 5.5,
     "amount": 50
+  },
+  {
+    "code": "2460",
+    "name": "Cartela de ovo",
+    "outcomePrice": 13,
+    "amount": 95
+  },
+  {
+    "code": "8473",
+    "name": "Rexona 200g",
+    "outcomePrice": 9,
+    "amount": 98
   }
 ]

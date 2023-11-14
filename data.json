@@ -1,19 +1,19 @@
 [
   {
     "code": "0001",
-    "name": "banana",
+    "name": "Banana",
     "outcomePrice": 4.5,
     "amount": 200
   },
   {
     "code": "0002",
-    "name": "apple",
+    "name": "Maçã",
     "outcomePrice": 4.5,
     "amount": 180
   },
   {
     "code": "8809",
-    "name": "pear",
+    "name": "Pêra",
     "outcomePrice": 5.5,
     "amount": 50
   },
